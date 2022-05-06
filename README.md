@@ -14,3 +14,11 @@ There could be human habitation near to where the fire starts. In such cases, it
 
 ### NGOs/ Ecological Enthusiasts ###
 Wildfires are instrumental in destroying vegetation and breaking the rhythm of the ecosystem. Hence, it would be good to take immediate action to deal with the repercussions of a fire. Therefore, an alert can be sent to interested parties that would be able to take care of the situation promptly.
+
+---
+
+##Architecture
+
+##Technical Architecture
+
+![Technical Architecture](https://user-images.githubusercontent.com/62476858/167068651-01ea78c5-c9e5-4de9-91e5-db0febd45633.png)
