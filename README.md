@@ -30,3 +30,12 @@ _This repository consists of mainly three tasks:_
 1. Wildfire detection from images 
 2. Sending an alert if a fire is detected 
 3. Burn severity analysis from satellite images.
+
+### Technical Components ###
+1. TensorFlow- to train the CNN architecture
+2. Streamlit- a Python based framework used for developing the web application
+3. Google Earth Engine API
+4. Folium
+5. Selenium
+6. PIL- Python Image Library for dealing with images
+7. SMTP
