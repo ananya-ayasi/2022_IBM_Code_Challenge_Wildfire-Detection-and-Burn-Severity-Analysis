@@ -45,7 +45,7 @@ _This repository consists of mainly three tasks:_
 7. OpenCV- for real-time Computer Vision
 8. SMTP- Python module for sending emails using Simple Mail Transfer Protocol
 
-##Demo Video
+## Demo Video
 [Click Here for Demo Video](https://drive.google.com/file/d/1lUafUNnWvHUzRvg5HPDCeUtFBeMGGw7j/view?usp=sharing)
 
 
@@ -55,6 +55,6 @@ _This repository consists of mainly three tasks:_
 
 ---
 
-##Contributors
+## Contributors
 1. Reshma Santhosh
 2. Ananya Ayasi
