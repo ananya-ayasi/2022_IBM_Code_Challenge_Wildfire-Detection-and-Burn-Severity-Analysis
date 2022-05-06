@@ -17,8 +17,9 @@ Wildfires are instrumental in destroying vegetation and breaking the rhythm of t
 
 ---
 
-##Architecture
+## Architecture
 
-##Technical Architecture
+## Technical Architecture
 
-![Technical Architecture](https://user-images.githubusercontent.com/62476858/167068651-01ea78c5-c9e5-4de9-91e5-db0febd45633.png)
+
+![Technical Architecture](https://user-images.githubusercontent.com/62476858/167068755-ca265a94-acfa-496c-9620-f0cfd1aed81b.jpg)
