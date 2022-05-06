@@ -3,6 +3,10 @@
 ## Problem Statement
 Recently several wildfires have ravaged multiple countries for prolonged periods of time, destroying wildlife, imposing collateral damage and overall disruption of multiple natural and anthropogenic processes. The faster the fire is detected, lesser will be the consequent damages. A system that can promptly detect fires and alert the respective departments would be highly helpful. 
 
+https://user-images.githubusercontent.com/62476858/167098586-dfb4a1fa-a302-4c37-a1a2-59cf04dd473c.mp4
+
+
+
 ---
 
 ## Personas of the System 
