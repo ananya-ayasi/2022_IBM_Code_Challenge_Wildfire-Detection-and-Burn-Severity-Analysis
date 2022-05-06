@@ -55,7 +55,7 @@ _This repository consists of mainly three tasks:_
 
 ---
 
-##Slide Deck
+## Slide Deck
 [Final Deck.pdf](https://github.com/ananya-ayasi/2022_IBM_Code_Challenge_Wildfire-Detection-and-Burn-Severity-Analysis/files/8639160/Final.Deck.pdf)
 
 
