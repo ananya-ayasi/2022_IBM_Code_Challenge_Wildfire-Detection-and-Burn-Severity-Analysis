@@ -46,7 +46,7 @@ _This repository consists of mainly three tasks:_
 8. SMTP- Python module for sending emails using Simple Mail Transfer Protocol
 
 ## Demo Video
-[Click Here for Demo Video](https://drive.google.com/file/d/1lUafUNnWvHUzRvg5HPDCeUtFBeMGGw7j/view?usp=sharing)
+[Click Here for Demo Video](https://www.youtube.com/watch?v=mEh2Tn6r_L4)
 
 
 ![code mail](https://user-images.githubusercontent.com/62476858/167107156-4cb8c0a0-de97-4e8f-b571-7b8d15fe268d.jpeg)
