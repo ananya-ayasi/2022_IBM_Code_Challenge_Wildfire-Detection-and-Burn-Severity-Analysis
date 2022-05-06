@@ -3,6 +3,8 @@
 ## Problem Statement
 Type.
 
+---
+
 ## Personas of the System 
 The application will be at the disposal of stakeholders like the fire department, disaster management units and NGOs that work with ecology conservation.
 
@@ -21,5 +23,6 @@ Wildfires are instrumental in destroying vegetation and breaking the rhythm of t
 
 ## Technical Architecture
 
-
 ![Technical Architecture](https://user-images.githubusercontent.com/62476858/167068755-ca265a94-acfa-496c-9620-f0cfd1aed81b.jpg)
+
+The aim of this project is to host a trained deep learning model that detects wildfires. Each UAV will be surveilling the perimeters of it's assigned forest area. Once a fire is detected, an alert will be sent to the fire department along with the location of the UAV that detected the fire. Similarly, satellites can be used to regularly send burn severity analysis reports to the respective departments. This repository consists of mainly three tasks: wildfire detection from images, sending an alert if a fire is detected and burn severity analysis from satellite images.
