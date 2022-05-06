@@ -38,4 +38,5 @@ _This repository consists of mainly three tasks:_
 4. Folium- A python library to create several types of leaflet maps.
 5. Selenium- An open-source tool that automates web browsers.
 6. PIL- Python Image library for dealing with images
-7. SMTP- Python module for sending emails using Simple Mail Transfer Protocol
+7. OpenCV- for real-time Computer Vision
+8. SMTP- Python module for sending emails using Simple Mail Transfer Protocol
