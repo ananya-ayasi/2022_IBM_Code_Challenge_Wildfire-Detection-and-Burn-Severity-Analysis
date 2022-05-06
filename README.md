@@ -32,10 +32,10 @@ _This repository consists of mainly three tasks:_
 3. Burn severity analysis from satellite images.
 
 ### Technical Components ###
-1. TensorFlow- to train the CNN architecture
-2. Streamlit- a Python based framework used for developing the web application
-3. Google Earth Engine API
-4. Folium
-5. Selenium
-6. PIL- Python Image Library for dealing with images
-7. SMTP
+1. TensorFlow- To train the CNN architecture
+2. Streamlit- Python based framework used for developing the web application
+3. Google Earth Engine API- To connect to Earth Engine service automatically
+4. Folium- A python library to create several types of leaflet maps.
+5. Selenium- An open-source tool that automates web browsers.
+6. PIL- Python Image library for dealing with images
+7. SMTP- Python module for sending emails using Simple Mail Transfer Protocol
