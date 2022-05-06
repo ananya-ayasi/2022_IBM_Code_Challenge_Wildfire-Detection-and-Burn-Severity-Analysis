@@ -44,3 +44,17 @@ _This repository consists of mainly three tasks:_
 6. PIL- Python Image library for dealing with images
 7. OpenCV- for real-time Computer Vision
 8. SMTP- Python module for sending emails using Simple Mail Transfer Protocol
+
+##Demo Video
+[Click Here for Demo Video](https://drive.google.com/file/d/1lUafUNnWvHUzRvg5HPDCeUtFBeMGGw7j/view?usp=sharing)
+
+
+![code mail](https://user-images.githubusercontent.com/62476858/167107156-4cb8c0a0-de97-4e8f-b571-7b8d15fe268d.jpeg)
+
+![mail](https://user-images.githubusercontent.com/62476858/167107124-8fdd4394-a078-4105-affa-ae1f9ec12426.jpeg)
+
+---
+
+##Contributors
+1. Reshma Santhosh
+2. Ananya Ayasi
