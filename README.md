@@ -1,7 +1,7 @@
 # Wildfire Detection And Burn Severity Analysis Using UAV And Satellite Imagery
 
 ## Problem Statement
-Type.
+Recently several wildfires have ravaged multiple countries for prolonged periods of time, destroying wildlife, imposing collateral damage and overall disruption of multiple natural and anthropogenic processes. The faster the fire is detected, lesser will be the consequent damages. A system that can promptly detect fires and alert the respective departments would be highly helpful. 
 
 ---
 
